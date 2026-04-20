@@ -1,5 +1,9 @@
 # Customer Churn Prediction
 
+## Results 
+
+**Model Accuracy: 81.47% | Logistic Regression**
+
 ## 📌 Problem
 
 Predict whether a customer will churn based on historical data.
